@@ -1,6 +1,5 @@
 # Юнит 2. Разведывательный анализ данных
-## skillfactory
-![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.7.4-blue)
+## SkilFactory
 
 ## Оглавление  
 [1. Описание юнита](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/README.md#Описание-юнита)  
