@@ -39,7 +39,7 @@
 - [Официальный учебник seaborn (англ.)](https://seaborn.pydata.org/tutorial.html)  
 - [Галерея примеров. seaborn](https://seaborn.pydata.org/examples/index.html)  
 - [статья про Plotly](https://proglib.io/p/plotly/)  
-- [охуенная и большая статья про Seaborn и Plotly](https://habr.com/ru/company/ods/blog/323210/)  
+- [Большая статья про Seaborn и Plotly](https://habr.com/ru/company/ods/blog/323210/)  
 - [официальный учебник Plotly (англ.)](https://plotly.com/python/)  
 - [Библа для визуализации пропусков missingno](https://github.com/ResidentMario/missingno)
 - [Библа для визуализации - D-Tale](https://towardsdatascience.com/introduction-to-d-tale-5eddd81abe3f)  
