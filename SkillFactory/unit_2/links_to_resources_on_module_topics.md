@@ -83,7 +83,7 @@ STAT&BASIC-5
 :arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 ### Работа с датами  
-*PYTHON-C1.  
+
 :arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/links_to_resources_on_module_topics.md#Оглавление)
 
 ### Разведывательный анализ данных  
