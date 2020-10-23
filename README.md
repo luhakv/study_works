@@ -3,9 +3,9 @@
 
 
 ## Оглавление  
-1. [О школе](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#О-школе)  
-2. [О специализации](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#О-специализации)  
-3. [Краткая программа специализации](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Краткая-программа-специализации)  
+1. [О школе](https://https://github.com/luhakv/study_works/blob/master/README.md#О-школе)  
+2. [О специализации](https://https://github.com/luhakv/study_works/blob/master/README.md#О-специализации)  
+3. [Краткая программа специализации](https://https://github.com/luhakv/study_works/blob/master/README.md#Краткая-программа-специализации)  
 
 
 ### О школе  
@@ -17,7 +17,7 @@
 3. Менторская поддержка для помощи в обучении и развитие профессионального комьюнити.  
 [Сайт школы](https://skillfactory.ru)
 
-:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/README.md#Оглавление)
 
 ### О специализации Data Science  
 После завершения специализации я уверенно могу:
@@ -31,7 +31,7 @@
 - Получать данные из веб-источников или по API
 - Применять методы математического анализа, линейной алгебры, статистики и теории вероятности для обработки.
   
-:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/README.md#Оглавление)
 
 ### Краткая программа специализации  
 - Основы программирования на Python + Python для анализа данных ***(16 модулей, 2 месяца)***
@@ -66,7 +66,7 @@ learning, 11 модулей,2 месяца)***
   - Управление data science проектом и командой
   - Общение с заказчиками
 
-:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/README.md#Оглавление)
 
 
 
