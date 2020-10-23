@@ -1,5 +1,5 @@
 # Юнит 2. Разведывательный анализ данных
-## skillfactory_rds  
+## skillfactory
 ![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.7.4-blue)
 
 ## Оглавление  
