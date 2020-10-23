@@ -3,7 +3,7 @@
 ### SkillFactory
 ---
 ## Оглавление  
-1. [О чем этот модуль?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/STAT%26BASIC_3/README.md#О-чем-этот-модуль?)  
+1. [О чем этот модуль?](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/STAT%26BASIC_3/README.md#О-чем-этот-модуль?)  
 
 ## О чем этот модуль?
 В этом модуле мы поговорим об доверительных интервалах:  
@@ -20,4 +20,4 @@
 Итак, нас интересуют неизвестные параметры генеральной совокупности, которые обычно мы не имеем возможности посчитать из-за недоступности всех данных генеральной совокупности.
 Метод доверительных интервалов позволяет оценить вышеописанные параметры с заданной надёжностью.  
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/STAT%26BASIC_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/STAT%26BASIC_3/README.md#Оглавление)
