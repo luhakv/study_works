@@ -4,7 +4,7 @@
 
 ## Оглавление  
 1. [О школе](https://https://github.com/luhakv/study_works/blob/master/README.md#О-школе)  
-2. [О специализации](https://https://github.com/luhakv/study_works/blob/master/README.md#О-специализации)  
+2. [О специализации](https://https://github.com/luhakv/study_works/blob/master/README.md#О-специализации-Data-Science)  
 3. [Краткая программа специализации](https://https://github.com/luhakv/study_works/blob/master/README.md#Краткая-программа-специализации)  
 
 
