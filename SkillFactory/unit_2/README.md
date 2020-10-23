@@ -3,11 +3,11 @@
 ![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.7.4-blue)
 
 ## Оглавление  
-[1. Постановка задачи на Юнит](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Постановка-задачи-на-Юнит)  
-[2. Разведывательный анализ данных - что это?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных---что-это)  
-[3. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
-[4. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем)  
-[5. Какие инструменты будут нужны?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Какие-инструменты-будут-нужны)  
+[1. Постановка задачи на Юнит](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/README.md#Постановка-задачи-на-Юнит)  
+[2. Разведывательный анализ данных - что это?](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/README.md#Разведывательный-анализ-данных---что-это)  
+[3. Что вы получите в результате работы](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/README.md#Что-вы-получите-в-результате-работы)  
+[4. Каких результатов мы достигнем?](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/README.md#Каких-результатов-мы-достигнем)  
+[5. Какие инструменты будут нужны?](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_2/README.md#Какие-инструменты-будут-нужны)  
 
 ### Описание юнита  
 процесс разработки DS-проекта выглядит так  
