@@ -1,5 +1,4 @@
-# Материалы моего обучения по специальности Data Scientist в SkillFactory
-## SkillFactory
+# Профессия Data Scientist в SkillFactory
 
 
 ## Оглавление  
