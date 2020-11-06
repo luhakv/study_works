@@ -3,10 +3,10 @@
 
 
 ## Оглавление  
-1. [О школе](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#О-школе)  
-2. [О специализации](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#О-специализации)  
-3. [Краткая программа специализации](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#Краткая-программа-специализации)  
-4. [DST-10, DST-7](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#DST-10,-DST-7)  
+1. [О школе](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#О-школе)  
+2. [О специализации](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#О-специализации)  
+3. [Краткая программа специализации](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Краткая-программа-специализации)  
+
 
 ### О школе  
 С 2016 года SkillFactory разработала и запустила 25 курсов и специализаций, обучение по которым прошли уже более 4000 студентов, и стала лидером на рынке онлайн-образования в сегменте Data Science.  
@@ -17,7 +17,7 @@
 3. Менторская поддержка для помощи в обучении и развитие профессионального комьюнити.  
 [Сайт школы](https://skillfactory.ru)
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Оглавление)
 
 ### О специализации Data Science  
 После завершения специализации я уверенно могу:
@@ -31,44 +31,41 @@
 - Получать данные из веб-источников или по API
 - Применять методы математического анализа, линейной алгебры, статистики и теории вероятности для обработки.
   
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Оглавление)
 
 ### Краткая программа специализации  
-- Основы программирования на Python + Python для анализа данных ***(16 модулей, 2 месяца)***
+- Основы программирования на ***(Python + Python для анализа данных)***
   - Введение в программирование на Python  
   - Анализ данных в Pandas и NumPy  
   - Визуализация, очистка данных и feature engineering  
   - Работа c файлами, html-страницами и API.  
-- Mатематика и статистика для Data Science ***(Math&Stath, 8 модулей, 2 месяца)***
+- Mатематика и статистика для Data Science ***(Math&Stath)***
   - Линейная алгебра  
   - Матанализ и методы оптимизации  
   - Основы статистики и теории вероятности  
   - Анализ временных рядов и другие математические методы
-- Практический Machine Learning ***(Machine learning, 8 модулей, 2 месяца)***
+- Практический Machine Learning ***(Machine learning)***
   - Введение в машинное обучение  
   - Предобработка данных  
   - Основные модели машинного обучения  
   - Оценка качества алгоритмов
-- Deep learning и нейронные сети ***(Deep
-learning, 11 модулей,2 месяца)***
+- Deep learning и нейронные сети ***(Deep learning)***
   - Фреймворк TensorFlow, библиотека Keras и другие  
   - Сверточные нейронные сети и компьютерное зрение  
   - Рекуррентные нейронные сети  
   - Анализ естественного языка и другие задачи DL
-- Data Engineering ***(8 модулей, 2 месяца)***
+- Data Engineering ***(Data Engineering)***
   - Hadoop
   - Spark
   - ETL и BI
   - Облачные технологии AWS и Azure
-- Менеджмент для Data Science ***(4 модуля, 1 месяц)***
+- Менеджмент для Data Science ***(Data Science)***
   - Data Science в production
   - Оценка эффективности моделей в реальных бизнес-задачах
   - Управление data science проектом и командой
   - Общение с заказчиками
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#Оглавление)
 
-### DST-10, DST-7
-`этот пункт находится в доработке`.  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/README.md#Оглавление)
+
 
