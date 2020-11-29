@@ -1,6 +1,7 @@
 # Материалы моего обучения по специальности Data Scientist в SkillFactory
 ## SkillFactory
 
+# Еще редактируется!!!
 
 ## Оглавление  
 1. [О школе](https://github.com/luhakv/study_works/blob/master/SkillFactory/README.md#О-школе)  
