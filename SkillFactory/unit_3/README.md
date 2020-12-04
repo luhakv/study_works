@@ -1,5 +1,6 @@
 # Юнит 3. Введение в машинное обучение
 
+## Фидбек ментора по выполненному проекту [здесь](https://docs.google.com/document/d/17XMmkgYI9tbxmOOsNGZNZYOh3xsK8N5azTUSzYKOpcM/edit?usp=sharing)
 
 ## Оглавление  
 [1. Описание юнита](https://github.com/luhakv/study_works/blob/master/SkillFactory/unit_3/README.md#Описание-юнита)  
